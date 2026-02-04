@@ -1,0 +1,18 @@
+body{
+    background-color:skyblue;
+   text-align:center;
+   font-family:'Times New Roman', Times, serif;
+    
+}#profile{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    border: 2px solid black;
+   /* disply flex is used to */
+}.head {
+    display: flex;
+    margin-left:450px;
+}.class{
+    margin-left:50px;
+    
+}
